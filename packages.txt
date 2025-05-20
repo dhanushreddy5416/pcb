@@ -1,0 +1,4 @@
+kaggle
+wget
+ffmpeg
+git
